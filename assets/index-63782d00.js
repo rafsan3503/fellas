@@ -4847,7 +4847,7 @@ function y1({ showVideo: e }) {
           className:
             "absolute -bottom-20 left-0 right-0 text-center custom-font text-yellow-400",
           children: T.jsx("h1", {
-            children: "GeorgeBushProSkater888@gmail.com",
+            children: "",
           }),
         }),
         T.jsx("div", {
@@ -17130,7 +17130,7 @@ function ZS({ onClick: e }) {
           globalFactorX: 0.6,
           globalFactorY: 0.6,
           className:
-            "h-screen w-screen bg-black bg-cover flex flex-col justify-center items-center",
+            "h-screen w-screen bg-[url('bg.jpg')] bg-cover flex flex-col justify-center items-center",
           children: T.jsxs(gr, {
             factorX: 0.03,
             factorY: 0.03,
