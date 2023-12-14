@@ -1991,7 +1991,7 @@ function ty() {
           }),
           T.jsx("a", {
             className: `hover-bg-pink-300 flex items-center justify-center rounded-lg bg-black px-8 py-2.5 text-white hover:bg-yellow-300 focus:outline-none focus:ring-[#ff084f] ${e}`,
-            href: "https://app.uniswap.org/swap?outputCurrency=0x00000000000000000000000&chain=ethereum",
+            href: "https://app.uniswap.org/swap?outputCurrency=0xe607f319080d902f8f68e4187c7a47db065da033&chain=ethereum",
             children: T.jsx("img", {
               className: "h-7 w-7 mb-1",
               src: "/uniswap-logo.svg",
@@ -4581,7 +4581,7 @@ function y1({ showVideo: e }) {
         () => clearTimeout(c)
       );
     }, []),
-    ey("0x00000000000000000000000", { successDuration: 2500 }),
+    ey("0xe607f319080d902f8f68e4187c7a47db065da033", { successDuration: 2500 }),
     T.jsxs(T.Fragment, {
       children: [
         T.jsx("div", {
@@ -4608,7 +4608,7 @@ function y1({ showVideo: e }) {
                 className:
                   "py-1 text-xl text-white bg-black custom-font absolute",
                 children: T.jsx("a", {
-                  href: "https://app.uniswap.org/swap?outputCurrency=0x00000000000000000000000&chain=ethereum",
+                  href: "https://app.uniswap.org/swap?outputCurrency=0xe607f319080d902f8f68e4187c7a47db065da033&chain=ethereum",
                   children: "ALL MY FELLAS      ",
                 }),
               }),
@@ -4616,7 +4616,7 @@ function y1({ showVideo: e }) {
                 children: [
                   s &&
                     T.jsx("a", {
-                      href: "https://app.uniswap.org/swap?outputCurrency=0x00000000000000000000000&chain=ethereum",
+                      href: "https://app.uniswap.org/swap?outputCurrency=0xe607f319080d902f8f68e4187c7a47db065da033&chain=ethereum",
                       children: T.jsx("img", {
                         style: { animation: "jiggle1 6s ease-in-out infinite" },
                         className: "absolute right-10 top-20 w-1/4 z-10",
@@ -4675,7 +4675,7 @@ function y1({ showVideo: e }) {
                         className:
                           "text-yellow-300 absolute top-10 lg:top-20 text-sm sm:text-xl custom-font text-center",
                         children:
-                          "CA: 0x00000000000000000000000 ",
+                          "CA: 0xe607f319080d902f8f68e4187c7a47db065da033 ",
                       }),
                     ],
                   }),
@@ -17188,7 +17188,7 @@ function ZS({ onClick: e }) {
                   T.jsx("a", {
                     className:
                       "custom-font my-2 rounded-xl text-5xl font-extrabold text-[#FDCA49] transition duration-300 ease-in-out hover:-translate-y-1 hover:scale-110",
-                    href: "https://app.uniswap.org/swap?outputCurrency=0x00000000000000000000000&chain=ethereum",
+                    href: "https://app.uniswap.org/swap?outputCurrency=0xe607f319080d902f8f68e4187c7a47db065da033&chain=ethereum",
                     style: {
                       whiteSpace: "nowrap",
                       overflow: "hidden",
