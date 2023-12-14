@@ -2000,7 +2000,7 @@ function ty() {
           }),
           T.jsx("a", {
             className: `hover-bg-pink-300 flex items-center justify-center rounded-lg bg-black px-8 py-2.5 text-white hover:bg-yellow-300 focus:outline-none focus:ring-[#ff084f] ${e}`,
-            href: "tglink",
+            href: "http://t.me/allmyfellaseth",
             children: T.jsx("img", {
               className: "h-6 w-6",
               src: "/tg-logo.svg",
@@ -2009,7 +2009,7 @@ function ty() {
           }),
           T.jsx("a", {
             className: `hover-bg-pink-300 flex items-center justify-center rounded-lg bg-black px-8 py-2.5 text-white hover:bg-yellow-300 focus:outline-none focus:ring-[#ff084f] ${e}`,
-            href: "twitterlink",
+            href: "https://twitter.com/AllMyFellasErc",
             children: T.jsx("img", {
               className: "h-6 w-6",
               src: "/logo.svg",
@@ -4626,7 +4626,7 @@ function y1({ showVideo: e }) {
                     }),
                   r &&
                     T.jsx("a", {
-                      href: "tglink",
+                      href: "http://t.me/allmyfellaseth",
                       children: T.jsx("img", {
                         style: { animation: "jiggle1 5s ease-in-out infinite" },
                         className: "absolute left-32 top-48 top-20 w-1/4 z-10",
@@ -4636,7 +4636,7 @@ function y1({ showVideo: e }) {
                     }),
                   o &&
                     T.jsx("a", {
-                      href: "twitterlink",
+                      href: "https://twitter.com/AllMyFellasErc",
                       children: T.jsx("img", {
                         style: { animation: "jiggle1 4s ease-in-out infinite" },
                         className:
