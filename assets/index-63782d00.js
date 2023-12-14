@@ -4734,9 +4734,9 @@ function y1({ showVideo: e }) {
               className:
                 "text-white absolute pb-10 px-10 md:text-6xl text-lg sm:text-3xl custom-font",
               children: [
-                T.jsx("li", { children: "Total Supply: 888,888,888 $FELLAS" }),
+                T.jsx("li", { children: "Total Supply: 1 Billion $FELLAS" }),
                 T.jsx("li", { children: "Locked & Renounced" }),
-                T.jsx("li", { children: "Tax: None" }),
+                T.jsx("li", { children: "Tax: 0/0" }),
               ],
             }),
             T.jsxs("div", {
